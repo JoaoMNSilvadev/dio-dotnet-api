@@ -56,3 +56,16 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## ✅ Status do Projeto
+
+✔ Projeto concluído com sucesso.
+
+Todos os endpoints foram implementados conforme especificado no desafio, incluindo:
+
+- CRUD completo da entidade **Tarefa**
+- Filtros por título, data e status
+- Configuração do Entity Framework com migrations
+- Documentação da API utilizando Swagger
+
+Este projeto foi finalizado como parte da **Trilha .NET – API e Entity Framework da DIO**, consolidando os conhecimentos em desenvolvimento de APIs com ASP.NET Core e integração com banco de dados.
